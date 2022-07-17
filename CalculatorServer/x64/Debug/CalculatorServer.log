@@ -1,0 +1,18 @@
+﻿  CalculatorServer.cpp
+C:\Users\fptshop\source\repos\developNetwork\CalculatorServer\CalculatorServer.cpp(13,24): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\fptshop\source\repos\developNetwork\CalculatorServer\CalculatorServer.cpp(31,24): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\fptshop\source\repos\developNetwork\CalculatorServer\CalculatorServer.cpp(37,57): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\fptshop\source\repos\developNetwork\CalculatorServer\CalculatorServer.cpp(55,36): warning C4566: character represented by universal-character-name '\u1ED1' cannot be represented in the current code page (1252)
+C:\Users\fptshop\source\repos\developNetwork\CalculatorServer\CalculatorServer.cpp(55,36): warning C4566: character represented by universal-character-name '\u1EE3' cannot be represented in the current code page (1252)
+C:\Users\fptshop\source\repos\developNetwork\CalculatorServer\CalculatorServer.cpp(55,36): warning C4566: character represented by universal-character-name '\u1EC7' cannot be represented in the current code page (1252)
+C:\Users\fptshop\source\repos\developNetwork\CalculatorServer\CalculatorServer.cpp(56,50): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\fptshop\source\repos\developNetwork\CalculatorServer\CalculatorServer.cpp(65,32): warning C4566: character represented by universal-character-name '\u1EBF' cannot be represented in the current code page (1252)
+C:\Users\fptshop\source\repos\developNetwork\CalculatorServer\CalculatorServer.cpp(65,32): warning C4566: character represented by universal-character-name '\u1ED1' cannot be represented in the current code page (1252)
+C:\Users\fptshop\source\repos\developNetwork\CalculatorServer\CalculatorServer.cpp(65,32): warning C4566: character represented by universal-character-name '\u1EC1' cannot be represented in the current code page (1252)
+C:\Users\fptshop\source\repos\developNetwork\CalculatorServer\CalculatorServer.cpp(66,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\fptshop\source\repos\developNetwork\CalculatorServer\CalculatorServer.cpp(76,50): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\fptshop\source\repos\developNetwork\CalculatorServer\CalculatorServer.cpp(84,50): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\fptshop\source\repos\developNetwork\CalculatorServer\CalculatorServer.cpp(92,50): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\fptshop\source\repos\developNetwork\CalculatorServer\CalculatorServer.cpp(100,50): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\fptshop\source\repos\developNetwork\CalculatorServer\CalculatorServer.cpp(104,50): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  CalculatorServer.vcxproj -> C:\Users\fptshop\source\repos\developNetwork\x64\Debug\CalculatorServer.exe
